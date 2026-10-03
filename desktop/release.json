@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "latest",
+  "downloadBase": "latest/",
+  "files": [
+    {
+      "path": "games/warcraft3/game.dll",
+      "sha256": "45f67d18b79430b1276e00aad6c1d6e0360a1553b03b045a4b63537cc0600fae"
+    },
+    {
+      "path": "games/warcraft3/libs/peon.dll",
+      "sha256": "33781cdf84791258f8e5ca779e6bd4b5e02f6bb3c7229be7296c5b97d3e044d1"
+    },
+    {
+      "path": "games/warcraft3/libs/x86/peon.dll",
+      "sha256": "358ce8d630fc5e04b2abaf257125154d0e3706dc0fb720d4c931860fc1911a28"
+    },
+    {
+      "path": "overlays/x64/veil.dll",
+      "sha256": "cbd664b90cd36feafd1f13be8ee783fde9e081111823008a8e0e7e3b3826bed9"
+    },
+    {
+      "path": "overlays/x86/veil.dll",
+      "sha256": "b5ae871f9e0a216414ca2788f328fe736a4a89a4b1e48fbf33a1649760bc657f"
+    },
+    {
+      "path": "TMO.GG Desktop.exe",
+      "sha256": "f8d95950423d8691163fcb3d399cb6f8a944e588aa858b2fc8f93d1fc9651f73"
+    }
+  ]
+}
